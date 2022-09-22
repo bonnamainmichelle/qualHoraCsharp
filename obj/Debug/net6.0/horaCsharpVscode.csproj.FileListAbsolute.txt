@@ -1,0 +1,15 @@
+C:\Treinamentos\horaCsharpVscode\bin\Debug\net6.0\horaCsharpVscode.exe
+C:\Treinamentos\horaCsharpVscode\bin\Debug\net6.0\horaCsharpVscode.deps.json
+C:\Treinamentos\horaCsharpVscode\bin\Debug\net6.0\horaCsharpVscode.runtimeconfig.json
+C:\Treinamentos\horaCsharpVscode\bin\Debug\net6.0\horaCsharpVscode.dll
+C:\Treinamentos\horaCsharpVscode\bin\Debug\net6.0\horaCsharpVscode.pdb
+C:\Treinamentos\horaCsharpVscode\obj\Debug\net6.0\horaCsharpVscode.csproj.AssemblyReference.cache
+C:\Treinamentos\horaCsharpVscode\obj\Debug\net6.0\horaCsharpVscode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Treinamentos\horaCsharpVscode\obj\Debug\net6.0\horaCsharpVscode.AssemblyInfoInputs.cache
+C:\Treinamentos\horaCsharpVscode\obj\Debug\net6.0\horaCsharpVscode.AssemblyInfo.cs
+C:\Treinamentos\horaCsharpVscode\obj\Debug\net6.0\horaCsharpVscode.csproj.CoreCompileInputs.cache
+C:\Treinamentos\horaCsharpVscode\obj\Debug\net6.0\horaCsharpVscode.dll
+C:\Treinamentos\horaCsharpVscode\obj\Debug\net6.0\refint\horaCsharpVscode.dll
+C:\Treinamentos\horaCsharpVscode\obj\Debug\net6.0\horaCsharpVscode.pdb
+C:\Treinamentos\horaCsharpVscode\obj\Debug\net6.0\horaCsharpVscode.genruntimeconfig.cache
+C:\Treinamentos\horaCsharpVscode\obj\Debug\net6.0\ref\horaCsharpVscode.dll
