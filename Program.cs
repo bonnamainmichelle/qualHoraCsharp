@@ -1,6 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
 {
-
 Console.WriteLine("Qual a hora atual?");
 int hora = int.Parse(Console.ReadLine());
 if (hora < 12)
